@@ -1,2 +1,3 @@
 import pywhatkit as pykid
-pykid.sendwhatmsg('+919911437580','send through python',00,20)
+# this function uses 3 parameter the reciver mobile number, hh ,mm
+pykid.sendwhatmsg('Mobile No','send through python',00,20)
